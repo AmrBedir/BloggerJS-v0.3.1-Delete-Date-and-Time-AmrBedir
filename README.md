@@ -56,5 +56,3 @@ So let’s get into it.
 # STEP 2: After clicking on the Theme section, Get into the “edit HTML”.
 # STEP 3: Now, Find out the <head> tag here. You can also find it out with the help of Cntrl+F.
 # Step 4: Now, Copy the Given Code and Paste it after the <head> tag and click on Save theme
-
-Now, you have done it. If you face any problem in the above-given steps you can watch this video tutorial also.
