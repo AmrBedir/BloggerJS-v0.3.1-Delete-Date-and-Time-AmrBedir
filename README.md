@@ -52,7 +52,7 @@ How To Remove Date From Blogger Post URL Step By Step
 Now, here, I will show you the method step by step with the help of screenshots.
 
 So let’s get into it.
-# Step 1: Login Into Your Blogger Dashboard and head-over to the theme section.
-# STEP 2: After clicking on the Theme section, Get into the “edit HTML”.
-# STEP 3: Now, Find out the <head> tag here. You can also find it out with the help of Cntrl+F.
-# Step 4: Now, Copy the Given Code and Paste it after the <head> tag and click on Save theme
+### Step 1: Login Into Your Blogger Dashboard and head-over to the theme section.
+### STEP 2: After clicking on the Theme section, Get into the “edit HTML”.
+### STEP 3: Now, Find out the <head> tag here. You can also find it out with the help of Cntrl+F.
+### Step 4: Now, Copy the Given Code and Paste it after the <head> tag and click on Save theme
