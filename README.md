@@ -53,6 +53,10 @@ Now, here, I will show you the method step by step with the help of screenshots.
 
 So let’s get into it.
 ### Step 1: Login Into Your Blogger Dashboard and head-over to the theme section.
+![STEP 1](./apply-step-1.png)
 ### STEP 2: After clicking on the Theme section, Get into the “edit HTML”.
+![STEP 2](./apply-step-2.png)
 ### STEP 3: Now, Find out the <head> tag here. You can also find it out with the help of Cntrl+F.
-### Step 4: Now, Copy the Given Code and Paste it after the <head> tag and click on Save theme
+![STEP 3](./apply-step-3.png)
+### Step 4: Now, Copy the Given Code and Paste it after the <head> tag and click on Save theme.
+![STEP 4](./apply-step-4.png)
