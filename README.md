@@ -1,4 +1,4 @@
-# BloggerJS-v0.3.1-Delete-Date-and-Time
+# BloggerJS v0.3.1 Delete Date & Time from URL
 
 Remove Date From Blogger Post URL: Want to Create your Blogger Post URL like WordPress Posts URL.?
 If yes, then you are at the Right Place.
@@ -42,14 +42,26 @@ Now, the previous link in which the date is there will be 404, Which is page not
 
 This will affect your website SEO badly. So beware of changing Post URL if, it is ranked in Google Searches.
 
-In any case, you got a 404 error on your blog, then refer to this video tutorial of How to Solve 404 error in Blogger or Blogspot.
+# How to Correctly Add JavaScript code in Blogger?
 
-Here is the solution video for 404 erros.
+Adding Scripts in Blogger is extremely straightforward.
 
-Now, let us get to the main point, How to Remove Date From Blogger Post URL
+All you need to do is to go to Blogger.com >> Your site >> Template >> Edit HTML. 
 
-How To Remove Date From Blogger Post URL Step By Step
-Now, here, I will show you the method step by step with the help of screenshots.
+Now it depends on you where you would like to paste your JavaScript code. 
+
+However, I prefer you to add it above the </head> tag because this is the place where all technical things are present. Here’s how the code would look like:
+
+```js
+<script type='text/javascript'>
+//<![CDATA[
+Insert JavaScript code here
+//]]>
+</script>
+```
+
+Now, How To Remove Date From Blogger Post URL Step By Step?
+Here, I will show you the method step by step with the help of screenshots.
 
 So let’s get into it.
 ### Step 1: Login Into Your Blogger Dashboard and head-over to the theme section.
