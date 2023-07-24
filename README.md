@@ -36,8 +36,8 @@ First of all, let me tell you some Benefits of Removing the Date From a Blogger 
 * Helps in the Better ranking is Search Engine Result Pages.
 * Make your Blog Post URL Short.
 * It will give a professional look to your blog post.
-* 
-Above are the benefits which you will get by removing the date from the blogger posts URL.
+  
+Above are the benefits which you will get by removing the date from the blogger post URL.
 
 # Disadvantages of Removing Date From Blogger Post URL
 Removing the date from the Posts URL is good, but only for new bloggers, Who has just started their blog on Blogger?
