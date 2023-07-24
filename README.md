@@ -85,7 +85,7 @@ So let’s get into it.
 ![Step 1](./apply-step-1.png)
 ### Step 2: After clicking on the Theme section, Get into the “Edit HTML”.
 ![Step 2](./apply-step-2.png)
-### Step 3: Now, Find out the <head> tag here. You can also find it out with the help of Cntrl+F.
+### Step 3: Now, Find out the <head> tag here. You can also find it out with the help of Ctrl+F.
 ![Step 3](./apply-step-3.png)
 ### Step 4: Now, Copy the Given Code Paste it after the <head> tag, and click on Save theme.
 ![Step 4](./apply-step-4.png)
