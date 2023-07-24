@@ -1,16 +1,28 @@
 # BloggerJS v0.3.1 Delete Date & Time from URL
 
-Remove Date From Blogger Post URL: Want to Create your Blogger Post URL like WordPress Posts URL.?
-If yes, then you are at the Right Place.
-Today, In this Post, I will share a step by step guide of How to Remove Date from Blogger Post URL.
-So, Be with me till the last, to know more in detail.
+Remove Date From Blogger Post URL: Want to Create your Blogger Post URL like WordPress Posts URL?
 
-Whenever we create a post on blogger,
-That will contain the published date of that Post. Below is the screenshot of the default blogger post URL.
+If yes, then you are at the Right Place!
+
+In this Repo, I will share a step-by-step guide of How to Remove a Date from a Blogger Post URL.
+
+So, Be with me till the end, to know more in detail.
+
+Whenever we create a post on Blogger, That will contain the published date of that Post. 
+
+Below is the screenshot of the default blogger post URL.
+
 But, when you write a post on WordPress, its URL is completely different, here the date and .html will not come in the post URL.
-WordPress post URL looks professional as compared to the blogger default Post URL. That’s why I recommend you all, if, you have just started a blog on Blogger,
-Use this technique to Remove date from blogger post URL. This will make your Blogger Blog professional like WordPress.
-Permalink of Blogger is Auto-generated and you can also do it manually, But in both the case, the date will be there.
+
+WordPress post URL looks professional as compared to the blogger default Post URL. 
+
+That’s why I recommend you all, if, you have just started a blog on Blogger,
+Use this technique to Remove the date from the blogger post URL. 
+
+This will make your Blogger Blog professional like WordPress.
+
+The Permalink of Blogger is Auto-generated and you can also do it manually, But in both cases, the date will be there.
+
 But, with this method, you can remove the date from the blogger’s every post, and even in a future post, the date will not be there.
 
 # Benefits Of Removing Date Form Blogger Post URL
