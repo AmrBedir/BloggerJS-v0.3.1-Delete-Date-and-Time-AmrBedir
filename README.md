@@ -25,36 +25,38 @@ The Permalink of Blogger is Auto-generated and you can also do it manually, But 
 
 But, with this method, you can remove the date from the blogger’s every post, and even in a future post, the date will not be there.
 
-# Benefits Of Removing Date Form Blogger Post URL
-A Common search term which every blogger search is How to Remove Date From Blogger Post URL or how do I remove date from blogger permalink?
+# Benefits of Removing Date Form Blogger Post URL
+A Common search term that every blogger search is How to Remove Date From Blogger Post URL or How do I remove date from Blogger permalink?
 
-Fist of all, let me tell you some Benefits of Removing Date From Blogger Post URL
-Removing Date From Blogger Blog Posts will make your content Evergreen.
-Gives Professional Permalink to your Blog Posts.
-It Won’t Let visitors know on which date the post is published.
-Helps in the Better ranking is Search Engine Result Pages.
-Make your Blog Post URL Short.
-It will give professional look to your blog post.
-Above the benefits which you will get by removing the date from blogger posts URL.
+First of all, let me tell you some Benefits of Removing the Date From a Blogger Post URL:
 
-# Disadvantages Of Removing Date From Blogger Post URL
-Removing date from Posts URL is good, but only for new bloggers, Who has just started their blog on Blogger?
+* Removing Date From Blogger Blog Posts will make your content Evergreen.
+* Gives Professional Permalink to your Blog Posts.
+* It Won’t Let visitors know on which date the post is published.
+* Helps in the Better ranking is Search Engine Result Pages.
+* Make your Blog Post URL Short.
+* It will give a professional look to your blog post.
+* 
+Above are the benefits which you will get by removing the date from the blogger posts URL.
+
+# Disadvantages of Removing Date From Blogger Post URL
+Removing the date from the Posts URL is good, but only for new bloggers, Who has just started their blog on Blogger?
 
 If you have already a well-established Blogger Blog, and your blog posts are ranking in Google Search Engine Result Pages.
 
-Then, you shouldn’t take risk of changing Posts URL.
+Then, it would be better if you didn’t take the risk of changing Posts URL.
 
-Because it will effeminately affect the SEO of your blog. Read here in detail about What is SEO and How Does It Work.
+Because it will effeminately affect the SEO of your blog.
 
-Let me explain to you,
+Let me explain to you:
 
-IF any of your blog posts are ranked in Google with the date in URL, and after date, with this method, you removed the date from URL.
+If any of your blog posts are ranked in Google with the date in the URL, and after the date, with this method, you removed the date from the URL.
 
-Now, the previous link in which the date is there will be 404, Which is page not found Error.
+The previous link in which the date is there will be 404, Which is a page not found Error.
 
-This will affect your website SEO badly. So beware of changing Post URL if, it is ranked in Google Searches.
+This will affect your website SEO badly, So beware of changing Post URL if, it is ranked in Google Searches.
 
-# How to Correctly Add JavaScript code in Blogger?
+# How to Correctly Add JavaScript Code in Blogger?
 
 Adding Scripts in Blogger is extremely straightforward.
 
